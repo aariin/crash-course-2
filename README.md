@@ -1,2 +1,2 @@
-# crash-course-2
+# data scraping using python
 python project
